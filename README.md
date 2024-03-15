@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**Link**
+
+- https://mastodon.social/@teruhirojp
+- https://www.threads.net/@teruhirojp
+- https://bsky.app/profile/teruhirojp.bsky.social
+- https://twitter.com/teruhirojp
+- https://twitter.com/frudensjp
+
 <!--
 **teruhirojp/teruhirojp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
